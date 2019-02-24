@@ -5,7 +5,7 @@ from discord.ext import commands
 from discord.ext.commands import Bot
 
 # list of names of extensions of bot
-startup_extensions=["reddit", "wolf_bot", "play", "8ball","message_reply"]
+startup_extensions=["wolf_alpha", "reddit", "play_music", "8ball","message_reply"]
 bot = commands.Bot(command_prefix='!')
 
 # prefix before entering a command 
